@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="../../_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css?v=6644e6bb" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -425,9 +425,9 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#intro-to-nasa-remote-sensing">Intro to NASA &amp; Remote Sensing</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-do-satellites-see-how-do-remote-sensing-satellites-work">What do Satellites See? How Do Remote Sensing Satellites Work?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-do-satellites-see-and-how-do-they-work">What Do Satellites See and How Do They Work?</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#typical-spectral-bands">Typical Spectral Bands</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#spectral-band-usage-false-color">Spectral Band Usage &amp; False Color</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#spectral-band-usage">Spectral Band Usage</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#resolution">Resolution</a></li>
 </ul>
             </nav>
@@ -447,50 +447,50 @@ document.write(`
 <h2>Intro to NASA &amp; Remote Sensing<a class="headerlink" href="#intro-to-nasa-remote-sensing" title="Link to this heading">#</a></h2>
 <p>Remote sensing is the acquisition of information from a distance. This is done from airplanes, satellites, or other spacecraft. Both imagery and measurements are collected from the surface of the Earth.</p>
 <p>This information can be used across many different research topics, including meteorology, oceanography, terrestrial ecology, geology, geography, and more.</p>
-<p>NASA is very involved with remote sensing since they have an array of space-based platforms in order to record information. They have 25 currently active Earth Observation satellites and dozens more inactive ones that have finished their missions. Their LANDSAT satellite program in partnership with the U.S. Geological Survey has been a pillar of land change data since the 1970s and since this data is open-source, has been used by people all over the world for research, business, and education.</p>
+<p>NASA, with an array of space-based platforms that record information about Earth, is very involved with remote sensing. The <a class="reference external" href="https://science.nasa.gov/mission/landsat/">Landsat</a> satellite program, a partnership between NASA and the U.S. Geological Survey, has especially been a pillar of land change data since the 1970s. Since this data is open source, Landsat and other NASA imagery have been used all over the world for research, business, and education.</p>
 </section>
-<section id="what-do-satellites-see-how-do-remote-sensing-satellites-work">
-<h2>What do Satellites See? How Do Remote Sensing Satellites Work?<a class="headerlink" href="#what-do-satellites-see-how-do-remote-sensing-satellites-work" title="Link to this heading">#</a></h2>
-<p>Remote Sensing Satellites observe and gather data from a distance, capturing electromagnetic radiation: ultraviolet, infrared, and visible wavelengths being reflected from Earth. Images will be taken simultaneously in multiple wavelengths using multispectral imaging.</p>
-<p>Multispectral imaging captures image data in specific wavelengths using either filters or instruments that are sensitive to particular wavelengths, drawing out latent information. Using different color filters, features like water, vegetation, soil, etc are distinctly emphasized in order for easier analysis. This distinction is possible because each feature reflects the light of a different wavelength under sunlight.</p>
+<section id="what-do-satellites-see-and-how-do-they-work">
+<h2>What Do Satellites See and How Do They Work?<a class="headerlink" href="#what-do-satellites-see-and-how-do-they-work" title="Link to this heading">#</a></h2>
+<p>Remote sensing satellites observe and gather data from a distance, capturing electromagnetic radiation: ultraviolet, infrared, and visible wavelengths being reflected from Earth. Images will be taken simultaneously in multiple wavelengths using multispectral imaging.</p>
+<p>Multispectral imaging captures image data in specific wavelengths using either filters or instruments that are sensitive to particular wavelengths, drawing out latent information. Using different color filters, features like water, vegetation, soil, and more are distinctly emphasized for analysis. This distinction is possible because each feature reflects light differently.</p>
 <p><img alt="Electromagnetic spectrum" src="https://science.nasa.gov/wp-content/uploads/2023/04/intro_1-jpg.webp" /></p>
 <p>Image from <a class="reference external" href="https://science.nasa.gov/ems/01_intro/">NASA Science</a></p>
 </section>
 <section id="typical-spectral-bands">
 <h2>Typical Spectral Bands<a class="headerlink" href="#typical-spectral-bands" title="Link to this heading">#</a></h2>
-<p>Wavelengths are approximate and in parenthesis</p>
+<p>Wavelengths are approximate and in parenthesis:</p>
 <ul class="simple">
-<li><p>Blue (450-515nm) is used for atmosphere and deep water imaging, it can reach depths of up to 150 feet in clear water
-Green (515/520-590/600nm) is used for imaging vegetation and deep water structures, reaching up to 90 feet in clear water</p></li>
+<li><p>Blue (450-515nm) is used for atmosphere and deep water imaging, it can reach depths of up to 150 feet in clear water.</p></li>
+<li><p>Green (515/520-590/600nm) is used for imaging vegetation and deep water structures, reaching up to 90 feet in clear water.</p></li>
 <li><p>Red (600/630-680/690nm) is used for imaging man-made objects, soil, vegetation, and water up to 30 feet.</p></li>
-<li><p>Near infrared or NIR (750-900nm) is used for imaging vegetation</p></li>
-<li><p>Mid-infrared or MIR (1550-1750nm) is used for imaging vegetation, soil moisture content, and some forest fires</p></li>
+<li><p>Near infrared or NIR (750-900nm) is used for imaging vegetation.</p></li>
+<li><p>Mid-infrared or MIR (1550-1750nm) is used for imaging vegetation, soil moisture content, and some forest fires.</p></li>
 <li><p>Far-infrared or FIR (2080-2350nm) is used for soil, moisture, geological features, silicates, clays, and fires.</p></li>
 <li><p>Thermal infrared (10,400-12,500nm) uses emitted radiation rather than reflected, it is used for geological structures,fires, night studies, and thermal differences in water currents.</p></li>
 </ul>
 </section>
-<section id="spectral-band-usage-false-color">
-<h2>Spectral Band Usage &amp; False Color<a class="headerlink" href="#spectral-band-usage-false-color" title="Link to this heading">#</a></h2>
-<p>False colors are a group of color rendering methods in order to distinguish parts of the electromagnetic spectrum, both visible and invisible. A false-color image shows a scene in colors different from its original version.</p>
+<section id="spectral-band-usage">
+<h2>Spectral Band Usage<a class="headerlink" href="#spectral-band-usage" title="Link to this heading">#</a></h2>
 <ul class="simple">
-<li><p>True-color only uses red,green, and blue channels. These are easy to understand for beginner analysts since they’re plain color photographs. This method is good for analyzing man-made objects.</p></li>
-<li><p>Green-red-infrared replaces the blue channel with near infrared, this is often used to detect vegetation.</p></li>
+<li><p>False colors are a group of color rendering methods in order to distinguish parts of the electromagnetic spectrum, both visible and invisible. A false-color image shows a scene in colors different from its original version.</p></li>
+<li><p>True-color only uses red, green, and blue channels. These are easy to understand for beginner analysts since they’re plain color photographs. This method is good for analyzing man-made objects.</p></li>
+<li><p>Green-red-infrared replaces the blue channel with near infrared, which is often used to detect vegetation.</p></li>
 <li><p>Blue-NIR-MIR is when the blue channel uses visible blue, green uses NIR so that vegetation stays green, and MIR is shown as red. This makes it so water depth, vegetation coverage, fire presence, and soil moisture content can be viewed in one image.</p></li>
 </ul>
 </section>
 <section id="resolution">
 <h2>Resolution<a class="headerlink" href="#resolution" title="Link to this heading">#</a></h2>
-<p>Resolution of images plays a very big role in how data from an instrument can be used. There are four types of resolution to consider in datasets.</p>
-<p><strong>Radiometric resolution</strong> is the amount of information in each pixel, the number of bits representing energy recorded. Each bit records an exponent of base 2, meaning that the higher the radiometric resolution, the more values are available to store, allowing for better discrimination against energy differences (ex. Subtle differences in ocean color)</p>
+<p>Resolution of images plays a large role in how data from an instrument can be used. There are four types of resolution to consider in datasets.</p>
+<p><strong>Radiometric resolution</strong> is the amount of information in each pixel, the number of bits representing energy recorded. Each bit records an exponent of base 2, so the higher the radiometric resolution, the more values can be stored, allowing for better discrimination against energy differences (ex. subtle differences in ocean color).</p>
 <p><img alt="Space Archaeology: In the Realm of Resolution" src="https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91071/selselah_oli_2017024.png" /></p>
 <p><a class="reference external" href="https://www.visibleearth.nasa.gov/images/91071/space-archaeology-in-the-realm-of-resolution/91074w">NASA Earth Observatory images by Joshua Stevens</a></p>
-<p><strong>Spatial resolution</strong> is defined by the size of each pixel within a digital image and the area on Earth’s surface represented by that pixel. One pixel represents a specific area on the ground, the finer the resolution (the lower the number), the more detail visible. In the Moderate Resolution Imaging Spectroradiometer (MODIS) each pixel represents a 1km x 1km area with a spatial resolution of 250m or 500m.</p>
+<p><strong>Spatial resolution</strong> is defined by the size of each pixel within a digital image and the area on Earth’s surface represented by that pixel. One pixel represents a specific area on the ground, the finer the resolution (the lower the number), the more detail visible. In Landsat data for example, each pixel represents a 30-meter by 30-meter area of land.</p>
 <p><img alt="3 Landsat satellite images at 30m, 100m and 300m resolution" src="https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2022-02/spatial_resolution.jpg" /></p>
 <p>Image from <a class="reference external" href="https://earthobservatory.nasa.gov/">NASA Earth Observatory</a></p>
-<p><strong>Spectral resolution</strong> is the ability of an instrument to discern finer wavelengths, having more and narrower bands. The narrower the range of a given band, the finer the spectral resolution. Many instruments are multispectral with 3-10 bands, while others are hyperspectral with thousands. Below, the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) has 224 spectral channels, distinctions are able to be made between rocks and minerals as well as vegetation types.
+<p><strong>Spectral resolution</strong> is the ability of an instrument to discern finer wavelengths, having more and narrower bands. The narrower the range of a given band, the finer the spectral resolution. Many instruments are multispectral with 3 to 10 bands, while others are hyperspectral with hundreds. Below, the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) has 224 spectral channels, where distinctions are able to be made between rocks and minerals as well as vegetation types.
 <img alt="A cube showing hyperspectral data depicting part of San Francisco" src="https://esto.nasa.gov/wp-content/uploads/2022/05/ImgSPEC_Image2.jpg" /></p>
 <p>Image from <a class="reference external" href="https://esto.nasa.gov/nasa-software-leverages-hyperspectral-data-to-better-understand-climate-change/">NASA Jet Propulsion Laboratory</a></p>
-<p><strong>Temporal resolution</strong> is the time that it takes for a space-based platform to complete an orbit and revisit an observation area depending on the orbit, the instrument’s individual characteristics, and the horizontal distance covering a satellite sensor. Polar orbiting platforms have temporal resolutions that vary from 1 to 16 days, a satellite with a temporal resolution of 16 days would be better for capturing bi-monthly changes rather than daily changes.</p>
+<p><strong>Temporal resolution</strong> is the time that it takes for a satellite to complete an orbit and revisit an observation area depending on the orbit, the instrument’s individual characteristics, and the horizontal distance covering a satellite sensor. Polar orbiting platforms have temporal resolutions that vary from 1 to 16 days. A satellite with a temporal resolution of 16 days, for example, would be better for capturing bi-monthly changes rather than daily changes.</p>
 </section>
 </section>
 
@@ -559,9 +559,9 @@ Green (515/520-590/600nm) is used for imaging vegetation and deep water structur
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#intro-to-nasa-remote-sensing">Intro to NASA &amp; Remote Sensing</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-do-satellites-see-how-do-remote-sensing-satellites-work">What do Satellites See? How Do Remote Sensing Satellites Work?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-do-satellites-see-and-how-do-they-work">What Do Satellites See and How Do They Work?</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#typical-spectral-bands">Typical Spectral Bands</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#spectral-band-usage-false-color">Spectral Band Usage &amp; False Color</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#spectral-band-usage">Spectral Band Usage</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#resolution">Resolution</a></li>
 </ul>
   </nav></div>
