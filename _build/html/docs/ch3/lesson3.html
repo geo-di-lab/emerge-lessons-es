@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="../../_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css?v=6644e6bb" />
+    <link rel="stylesheet" type="text/css" href="../../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -553,7 +553,7 @@ document.write(`
             </style>
             </div></div>
 </div>
-<p>Get Sentinel-2 satellite images that match our AOI and date range, with less than 10% cloud cover</p>
+<p>Get Sentinel-2 satellite images that match our location and date range, with less than 10% cloud cover.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">collection</span> <span class="o">=</span> <span class="n">ee</span><span class="o">.</span><span class="n">ImageCollection</span><span class="p">(</span><span class="s1">&#39;COPERNICUS/S2_SR_HARMONIZED&#39;</span><span class="p">)</span> \
@@ -796,191 +796,6 @@ document.write(`
 </pre></div>
 </div>
 </div>
-<div class="cell_output docutils container">
-<div class="output text_html">
-            <style>
-                .geemap-dark {
-                    --jp-widgets-color: white;
-                    --jp-widgets-label-color: white;
-                    --jp-ui-font-color1: white;
-                    --jp-layout-color2: #454545;
-                    background-color: #383838;
-                }
-
-                .geemap-dark .jupyter-button {
-                    --jp-layout-color3: #383838;
-                }
-
-                .geemap-colab {
-                    background-color: var(--colab-primary-surface-color, white);
-                }
-
-                .geemap-colab .jupyter-button {
-                    --jp-layout-color3: var(--colab-primary-surface-color, white);
-                }
-            </style>
-            </div><div class="output text_html"><div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><span style="color:#565656">Make this Notebook Trusted to load map: File -> Trust Notebook</span><iframe srcdoc="&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    
-    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
-    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;https://code.jquery.com/jquery-3.7.1.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js&quot;&gt;&lt;/script&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css&quot;/&gt;
-    
-            &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,
-                initial-scale=1.0, maximum-scale=1.0, user-scalable=no&quot; /&gt;
-            &lt;style&gt;
-                #map_0321f6bff36a9d12f3d3f30c54517b60 {
-                    position: relative;
-                    width: 100.0%;
-                    height: 100.0%;
-                    left: 0.0%;
-                    top: 0.0%;
-                }
-                .leaflet-container { font-size: 1rem; }
-            &lt;/style&gt;
-
-            &lt;style&gt;html, body {
-                width: 100%;
-                height: 100%;
-                margin: 0;
-                padding: 0;
-            }
-            &lt;/style&gt;
-
-            &lt;style&gt;#map {
-                position:absolute;
-                top:0;
-                bottom:0;
-                right:0;
-                left:0;
-                }
-            &lt;/style&gt;
-
-            &lt;script&gt;
-                L_NO_TOUCH = false;
-                L_DISABLE_3D = false;
-            &lt;/script&gt;
-
-        
-&lt;/head&gt;
-&lt;body&gt;
-    
-    
-            &lt;div class=&quot;folium-map&quot; id=&quot;map_0321f6bff36a9d12f3d3f30c54517b60&quot; &gt;&lt;/div&gt;
-        
-&lt;/body&gt;
-&lt;script&gt;
-    
-    
-            var map_0321f6bff36a9d12f3d3f30c54517b60 = L.map(
-                &quot;map_0321f6bff36a9d12f3d3f30c54517b60&quot;,
-                {
-                    center: [28.473813, -81.660044],
-                    crs: L.CRS.EPSG3857,
-                    ...{
-  &quot;zoom&quot;: 8,
-  &quot;zoomControl&quot;: true,
-  &quot;preferCanvas&quot;: false,
-}
-
-                }
-            );
-
-            
-
-        
-    
-            var tile_layer_23e35b8e99894e0c315475bcf8728307 = L.tileLayer(
-                &quot;https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png&quot;,
-                {
-  &quot;minZoom&quot;: 0,
-  &quot;maxZoom&quot;: 20,
-  &quot;maxNativeZoom&quot;: 20,
-  &quot;noWrap&quot;: false,
-  &quot;attribution&quot;: &quot;\u0026copy; \u003ca href=\&quot;https://www.openstreetmap.org/copyright\&quot;\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\&quot;https://carto.com/attributions\&quot;\u003eCARTO\u003c/a\u003e&quot;,
-  &quot;subdomains&quot;: &quot;abcd&quot;,
-  &quot;detectRetina&quot;: false,
-  &quot;tms&quot;: false,
-  &quot;opacity&quot;: 1,
-}
-
-            );
-        
-    
-            tile_layer_23e35b8e99894e0c315475bcf8728307.addTo(map_0321f6bff36a9d12f3d3f30c54517b60);
-        
-    
-            var tile_layer_b192eadd8b7911238c2886f6612d896d = L.tileLayer(
-                &quot;https://earthengine.googleapis.com/v1/projects/emerge-lessons/maps/ff6093309d7f68236ab8f3e0b04ad914-c5b6abb3de4c31e54456a5dfabba87d2/tiles/{z}/{x}/{y}&quot;,
-                {
-  &quot;minZoom&quot;: 0,
-  &quot;maxZoom&quot;: 18,
-  &quot;maxNativeZoom&quot;: 18,
-  &quot;noWrap&quot;: false,
-  &quot;attribution&quot;: &quot;Map Data \u0026copy; \u003ca href=\&quot;https://earthengine.google.com/\&quot;\u003eGoogle Earth Engine\u003c/a\u003e&quot;,
-  &quot;subdomains&quot;: &quot;abc&quot;,
-  &quot;detectRetina&quot;: false,
-  &quot;tms&quot;: false,
-  &quot;opacity&quot;: 1,
-}
-
-            );
-        
-    
-            tile_layer_b192eadd8b7911238c2886f6612d896d.addTo(map_0321f6bff36a9d12f3d3f30c54517b60);
-        
-    
-            var tile_layer_7d9683e249f2aa7737e51bf40e4f788b = L.tileLayer(
-                &quot;https://earthengine.googleapis.com/v1/projects/emerge-lessons/maps/2d41fdc98cda0ced6b94fd0e2b31b2c4-fa667db2b356a834788fd440d9c2198a/tiles/{z}/{x}/{y}&quot;,
-                {
-  &quot;minZoom&quot;: 0,
-  &quot;maxZoom&quot;: 18,
-  &quot;maxNativeZoom&quot;: 18,
-  &quot;noWrap&quot;: false,
-  &quot;attribution&quot;: &quot;Map Data \u0026copy; \u003ca href=\&quot;https://earthengine.google.com/\&quot;\u003eGoogle Earth Engine\u003c/a\u003e&quot;,
-  &quot;subdomains&quot;: &quot;abc&quot;,
-  &quot;detectRetina&quot;: false,
-  &quot;tms&quot;: false,
-  &quot;opacity&quot;: 1,
-}
-
-            );
-        
-    
-            tile_layer_7d9683e249f2aa7737e51bf40e4f788b.addTo(map_0321f6bff36a9d12f3d3f30c54517b60);
-        
-    
-            var layer_control_7ec6c23728fd389afb85ce78d4db052c_layers = {
-                base_layers : {
-                    &quot;cartodbdarkmatter&quot; : tile_layer_23e35b8e99894e0c315475bcf8728307,
-                },
-                overlays :  {
-                    &quot;NDVI&quot; : tile_layer_b192eadd8b7911238c2886f6612d896d,
-                    &quot;NDWI&quot; : tile_layer_7d9683e249f2aa7737e51bf40e4f788b,
-                },
-            };
-            let layer_control_7ec6c23728fd389afb85ce78d4db052c = L.control.layers(
-                layer_control_7ec6c23728fd389afb85ce78d4db052c_layers.base_layers,
-                layer_control_7ec6c23728fd389afb85ce78d4db052c_layers.overlays,
-                {
-  &quot;position&quot;: &quot;topright&quot;,
-  &quot;collapsed&quot;: false,
-  &quot;autoZIndex&quot;: true,
-}
-            ).addTo(map_0321f6bff36a9d12f3d3f30c54517b60);
-
-        
-&lt;/script&gt;
-&lt;/html&gt;" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe></div></div></div></div>
 </div>
 <p>In the interactive map above, click on the check box next to <code class="docutils literal notranslate"><span class="pre">NDWI</span></code> to hide the layer, showing <code class="docutils literal notranslate"><span class="pre">NDVI</span></code> below it. You can click the check box again to show <code class="docutils literal notranslate"><span class="pre">NDWI</span></code> again.</p>
 </section>
