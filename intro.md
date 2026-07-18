@@ -1,130 +1,129 @@
-# Welcome to EMERGE
 
-Environmental Monitoring through Education, Research & Geospatial Engagement (EMERGE) is a statewide initiative that helps libraries, educators, and individuals across Florida engage in public health and environmental science using real-world data tools and citizen science.
+Environmental Monitoring through Education, Research & Geospatial Engagement (EMERGE) es una iniciativa estatal que ayuda a bibliotecas, educadores y personas de todo el estado de Florida a participar en investigaciones de salud pública y ciencias ambientales mediante herramientas de datos del mundo real y ciencia participativa.
 
-Through mobile tools like GLOBE Observer, participants help monitor mosquito breeding sites, classify land cover, and contribute data to global scientific efforts.
+A través de herramientas móviles como GLOBE Observer, las personas participantes ayudan a monitorear criaderos de mosquitos, clasificar la cobertura terrestre y aportar datos a iniciativas científicas de alcance mundial.
 
-This digital textbook includes interactive coding tutorials designed to introduce you to the amazing capabilities of participatory science and geospatial analysis.
+Este libro de texto digital incluye tutoriales interactivos de programación diseñados para presentar las increíbles posibilidades de la ciencia participativa y el análisis geoespacial.
 
-# Recommendations by Audience
+# Recomendaciones según el público
 
-```{admonition} Libraries
+```{admonition} Bibliotecas
 :class: dropdown
 
-**Who this is for:**
-Public, school, or academic library staff looking to host citizen science events, informal STEM programming, or community outreach.
+**A quién está dirigido:**
+Personal de bibliotecas públicas, escolares o académicas que desee organizar eventos de ciencia participativa, programas informales de STEM o actividades de participación comunitaria.
 
-**Recommended Activities:**
-The following coding activities summarize the first four lessons of the textbook, providing an introduction to GLOBE data visualization and analysis.
+**Actividades recomendadas:**
+Las siguientes actividades de programación resumen las primeras cuatro lecciones del libro y ofrecen una introducción a la visualización y el análisis de datos de GLOBE.
 
-- [Part 1. Introduction to GLOBE Data Visualization](https://geo-di-lab.github.io/emerge-lessons/docs/activities/1_intro_globe_data.html)
-- [Part 2. GLOBE Analysis with Environmental Data](https://geo-di-lab.github.io/emerge-lessons/docs/activities/2_globe_analysis.html)
+- [Parte 1. Introducción a la visualización de datos de GLOBE](https://geo-di-lab.github.io/emerge-lessons/docs/activities/1_intro_globe_data.html)
+- [Parte 2. Análisis de GLOBE con datos ambientales](https://geo-di-lab.github.io/emerge-lessons/docs/activities/2_globe_analysis.html)
 
-**Recommended Lessons:**
+**Lecciones recomendadas:**
 
-- [CH 1: Lesson 1 – What is Citizen Science?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson1.html)
-- [CH 1: Lesson 3 – What is GLOBE Observer?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson3.html)
-- [CH 2: Lesson 1 – Why Analyze Data?](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson1.html)
-- [CH 2: Lesson 2 – Mosquito & Land Cover Stats](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson2.html)
-- [CH 2: Lesson 3 – Map the Data](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson3.html)
-- [CH 2: Lesson 5 – Decoding Habitat Photos](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson5.html)
-- [CH 5: Lesson 1 – Communicate the Science](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson1.html)
-- [CH 5: Lesson 2 – Host Your Own Data Camp](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson2.html)
-- [CH 5: Lesson 4 – Sharing Your Findings](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson4.html)
+- [Cap. 1: Lección 1 – ¿Qué es la ciencia participativa?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson1.html)
+- [Cap. 1: Lección 3 – ¿Qué es GLOBE Observer?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson3.html)
+- [Cap. 2: Lección 1 – ¿Por qué analizar datos?](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson1.html)
+- [Cap. 2: Lección 2 – Estadísticas de mosquitos y cobertura terrestre](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson2.html)
+- [Cap. 2: Lección 3 – Representar los datos en un mapa](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson3.html)
+- [Cap. 2: Lección 5 – Interpretar fotografías de hábitats](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson5.html)
+- [Cap. 5: Lección 1 – Comunicar la ciencia](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson1.html)
+- [Cap. 5: Lección 2 – Organizar tu propio campamento de datos](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson2.html)
+- [Cap. 5: Lección 4 – Compartir tus hallazgos](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson4.html)
 ```
 
-```{admonition} Educators
+```{admonition} Educadores
 :class: dropdown
 
-**Who this is for:**
-K–12 and college instructors, out-of-school educators, and curriculum designers integrating environmental science, data analysis, or coding into learning.
+**A quién está dirigido:**
+Docentes de educación primaria, secundaria y universitaria, educadores de programas extracurriculares y diseñadores de currículo que integren las ciencias ambientales, el análisis de datos o la programación en sus actividades educativas.
 
-**Recommended Activities:**
-The following coding activities summarize the first four lessons of the textbook, providing an introduction to GLOBE data visualization and analysis.
+**Actividades recomendadas:**
+Las siguientes actividades de programación resumen las primeras cuatro lecciones del libro y ofrecen una introducción a la visualización y el análisis de datos de GLOBE.
 
-- [Part 1. Introduction to GLOBE Data Visualization](https://geo-di-lab.github.io/emerge-lessons/docs/activities/1_intro_globe_data.html)
-- [Part 2. GLOBE Analysis with Environmental Data](https://geo-di-lab.github.io/emerge-lessons/docs/activities/2_globe_analysis.html)
+- [Parte 1. Introducción a la visualización de datos de GLOBE](https://geo-di-lab.github.io/emerge-lessons/docs/activities/1_intro_globe_data.html)
+- [Parte 2. Análisis de GLOBE con datos ambientales](https://geo-di-lab.github.io/emerge-lessons/docs/activities/2_globe_analysis.html)
 
-**Recommended Lessons:**
+**Lecciones recomendadas:**
 
-- [CH 5: Lesson 4 – Sharing Your Findings](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson4.html)
-- [CH 1: Lesson 1 – What is Citizen Science?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson1.html)
-- [CH 1: Lesson 2 – Why Mosquitoes?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson2.html)
-- [CH 1: Lesson 5 – Intro to Coding & Google Earth Engine (GEE)](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson5.html)
-- [CH 1: Lesson 6 – Intro to GLOBE Data](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson6.html)
-- [CH 2: Lesson 2 – Mosquito & Land Cover Stats](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson2.html)
-- [CH 2: Lesson 3 – Map the Data](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson3.html)
-- [CH 2: Lesson 4 – Visualizing GLOBE Hotspots](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson4.html)
-- [CH 2: Lesson 5 – Decoding Habitat Photos](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson5.html)
-- [CH 3: Lesson 1 – Our Eyes in the Sky & On the Ground](https://geo-di-lab.github.io/emerge-lessons/docs/ch3/lesson1.html)
-- [CH 3: Lesson 2 – Zooming In with Satellites](https://geo-di-lab.github.io/emerge-lessons/docs/ch3/lesson2.html)
-- [CH 3: Lesson 3 – Vegetation & Water Indices](https://geo-di-lab.github.io/emerge-lessons/docs/ch3/lesson3.html)
-- [CH 4: Lesson 1 – Temperature, Rainfall & Mosquito Seasons](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson1.html)
-- [CH 4: Lesson 2 – Environment & Habitats](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson2.html)
-- [CH 4: Lesson 3 – Land Cover Analysis](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson3.html)
-- [CH 4: Lesson 4 – Introduction to Risk Mapping](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson4.html)
-- [CH 5: Lesson 2 – Host Your Own Data Camp](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson2.html)
-- [CH 5: Lesson 3 – Student Mini-Project](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson3.html)
+- [Cap. 5: Lección 4 – Compartir tus hallazgos](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson4.html)
+- [Cap. 1: Lección 1 – ¿Qué es la ciencia participativa?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson1.html)
+- [Cap. 1: Lección 2 – ¿Por qué estudiar los mosquitos?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson2.html)
+- [Cap. 1: Lección 5 – Introducción a la programación y Google Earth Engine (GEE)](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson5.html)
+- [Cap. 1: Lección 6 – Introducción a los datos de GLOBE](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson6.html)
+- [Cap. 2: Lección 2 – Estadísticas de mosquitos y cobertura terrestre](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson2.html)
+- [Cap. 2: Lección 3 – Representar los datos en un mapa](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson3.html)
+- [Cap. 2: Lección 4 – Visualizar zonas de concentración de datos de GLOBE](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson4.html)
+- [Cap. 2: Lección 5 – Interpretar fotografías de hábitats](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson5.html)
+- [Cap. 3: Lección 1 – Nuestros ojos en el cielo y en la Tierra](https://geo-di-lab.github.io/emerge-lessons/docs/ch3/lesson1.html)
+- [Cap. 3: Lección 2 – Observar más de cerca mediante satélites](https://geo-di-lab.github.io/emerge-lessons/docs/ch3/lesson2.html)
+- [Cap. 3: Lección 3 – Índices de vegetación y agua](https://geo-di-lab.github.io/emerge-lessons/docs/ch3/lesson3.html)
+- [Cap. 4: Lección 1 – Temperatura, precipitación y temporadas de mosquitos](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson1.html)
+- [Cap. 4: Lección 2 – Ambiente y hábitats](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson2.html)
+- [Cap. 4: Lección 3 – Análisis de la cobertura terrestre](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson3.html)
+- [Cap. 4: Lección 4 – Introducción al mapeo de riesgos](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson4.html)
+- [Cap. 5: Lección 2 – Organizar tu propio campamento de datos](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson2.html)
+- [Cap. 5: Lección 3 – Miniproyecto estudiantil](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson3.html)
 ```
 
-```{admonition} Local Government
+```{admonition} Gobiernos locales
 :class: dropdown
 
-**Who this is for:**
-City, county, or state agency professionals interested in public health, environmental resilience, or community data tools.
+**A quién está dirigido:**
+Profesionales de agencias municipales, de condado o estatales interesados en la salud pública, la resiliencia ambiental o las herramientas comunitarias de datos.
 
-**Recommended Lessons:**
+**Lecciones recomendadas:**
 
-- [CH 4: Lesson 4 – Introduction to Risk Mapping](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson4.html)
-- [CH 1: Lesson 2 – Why Mosquitoes?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson2.html)
-- [CH 1: Lesson 5 – Intro to Google Earth Engine](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson5.html)
-- [CH 1: Lesson 6 – Intro to GLOBE Data](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson6.html)
-- [CH 2: Lesson 2 – Mosquito & Land Cover Stats](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson2.html)
-- [CH 2: Lesson 4 – Visualizing GLOBE Hotspots](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson4.html)
-- [CH 3: Lesson 3 – Vegetation & Water Indices](https://geo-di-lab.github.io/emerge-lessons/docs/ch3/lesson3.html)
-- [CH 4: Lesson 2 – Environment & Habitats](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson2.html)
+- [Cap. 4: Lección 4 – Introducción al mapeo de riesgos](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson4.html)
+- [Cap. 1: Lección 2 – ¿Por qué estudiar los mosquitos?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson2.html)
+- [Cap. 1: Lección 5 – Introducción a Google Earth Engine](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson5.html)
+- [Cap. 1: Lección 6 – Introducción a los datos de GLOBE](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson6.html)
+- [Cap. 2: Lección 2 – Estadísticas de mosquitos y cobertura terrestre](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson2.html)
+- [Cap. 2: Lección 4 – Visualizar zonas de concentración de datos de GLOBE](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson4.html)
+- [Cap. 3: Lección 3 – Índices de vegetación y agua](https://geo-di-lab.github.io/emerge-lessons/docs/ch3/lesson3.html)
+- [Cap. 4: Lección 2 – Ambiente y hábitats](https://geo-di-lab.github.io/emerge-lessons/docs/ch4/lesson2.html)
 ```
 
-```{admonition} Ambassadors
+```{admonition} Embajadores
 :class: dropdown
 
-**Who this is for:**
-Motivated citizen science volunteers who help lead outreach efforts and facilitate community learning.
+**A quién está dirigido:**
+Voluntarios motivados de ciencia participativa que ayudan a dirigir actividades de divulgación y facilitan el aprendizaje comunitario.
 
-**Recommended Lessons:**
+**Lecciones recomendadas:**
 
-- [CH 5: Lesson 4 – Sharing Your Findings](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson4.html)
-- [CH 1: Lesson 1 – What is Citizen Science?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson1.html)
-- [CH 1: Lesson 3 – What is GLOBE Observer?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson3.html)
-- [CH 2: Lesson 1 – Why Analyze Data?](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson1.html)
-- [CH 2: Lesson 3 – Map the Data](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson3.html)
-- [CH 5: Lesson 2 – Host Your Own Data Camp](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson2.html)
+- [Cap. 5: Lección 4 – Compartir tus hallazgos](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson4.html)
+- [Cap. 1: Lección 1 – ¿Qué es la ciencia participativa?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson1.html)
+- [Cap. 1: Lección 3 – ¿Qué es GLOBE Observer?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson3.html)
+- [Cap. 2: Lección 1 – ¿Por qué analizar datos?](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson1.html)
+- [Cap. 2: Lección 3 – Representar los datos en un mapa](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson3.html)
+- [Cap. 5: Lección 2 – Organizar tu propio campamento de datos](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson2.html)
 ```
 
-```{admonition} General Public
+```{admonition} Público general
 :class: dropdown
 
-**Who this is for:**
-Anyone curious about science, environmental issues, or how they can take local action using data.
+**A quién está dirigido:**
+Cualquier persona interesada en la ciencia, los problemas ambientales o las formas de actuar localmente mediante el uso de datos.
 
-**Recommended Lessons:**
+**Lecciones recomendadas:**
 
-- [CH 5: Lesson 1 – Communicate the Science](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson1.html)
-- [CH 1: Lesson 1 – What is Citizen Science?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson1.html)
-- [CH 1: Lesson 2 – Why Mosquitoes?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson2.html)
-- [CH 1: Lesson 3 – What is GLOBE Observer?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson3.html)
-- [CH 2: Lesson 2 – Mosquito & Land Cover Stats](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson2.html)
-- [CH 2: Lesson 5 – Decoding Habitat Photos](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson5.html)
+- [Cap. 5: Lección 1 – Comunicar la ciencia](https://geo-di-lab.github.io/emerge-lessons/docs/ch5/lesson1.html)
+- [Cap. 1: Lección 1 – ¿Qué es la ciencia participativa?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson1.html)
+- [Cap. 1: Lección 2 – ¿Por qué estudiar los mosquitos?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson2.html)
+- [Cap. 1: Lección 3 – ¿Qué es GLOBE Observer?](https://geo-di-lab.github.io/emerge-lessons/docs/ch1/lesson3.html)
+- [Cap. 2: Lección 2 – Estadísticas de mosquitos y cobertura terrestre](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson2.html)
+- [Cap. 2: Lección 5 – Interpretar fotografías de hábitats](https://geo-di-lab.github.io/emerge-lessons/docs/ch2/lesson5.html)
 ```
 
-# Table of Contents
+# Tabla de contenidos
 
 ```{tableofcontents}
 ```
 
-## Activities
+## Actividades
 
-These coding activities summarize the first four lessons of the textbook, providing an introduction to GLOBE data visualization and analysis.
+Estas actividades de programación resumen las primeras cuatro lecciones del libro y ofrecen una introducción a la visualización y el análisis de datos de GLOBE.
 
-- [Part 1. Introduction to GLOBE Data Visualization](https://geo-di-lab.github.io/emerge-lessons/docs/activities/1_intro_globe_data.html)
-- [Part 2. GLOBE Analysis with Environmental Data](https://geo-di-lab.github.io/emerge-lessons/docs/activities/2_globe_analysis.html)
+- [Parte 1. Introducción a la visualización de datos de GLOBE](https://geo-di-lab.github.io/emerge-lessons/docs/activities/1_intro_globe_data.html)
+- [Parte 2. Análisis de GLOBE con datos ambientales](https://geo-di-lab.github.io/emerge-lessons/docs/activities/2_globe_analysis.html)
