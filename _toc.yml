@@ -2,7 +2,7 @@ format: jb-book
 root: intro
 parts:
 
-- caption: 1. Foundational Concepts
+- caption: 1. Conceptos fundamentales
   chapters:
   - file: docs/ch1/lesson1
   - file: docs/ch1/lesson2
@@ -12,7 +12,7 @@ parts:
   - file: docs/ch1/lesson5b
   - file: docs/ch1/lesson6
 
-- caption: 2. Explore the Data
+- caption: 2. Explorar los datos
   chapters:
   - file: docs/ch2/lesson1
   - file: docs/ch2/lesson2
@@ -20,13 +20,13 @@ parts:
   - file: docs/ch2/lesson4
   - file: docs/ch2/lesson5
 
-- caption: 3. Data from Satellites
+- caption: 3. Datos satelitales
   chapters:
   - file: docs/ch3/lesson1
   - file: docs/ch3/lesson2
   - file: docs/ch3/lesson3
 
-- caption: 4. Analyze the Data
+- caption: 4. Analizar los datos
   chapters:
   - file: docs/ch4/lesson1
   - file: docs/ch4/lesson2
@@ -34,20 +34,20 @@ parts:
   - file: docs/ch4/lesson4
   - file: docs/ch4/lesson5
 
-- caption: 5. Science Communication
+- caption: 5. Comunicación científica
   chapters:
   - file: docs/ch5/lesson1
   - file: docs/ch5/lesson2
   # - file: docs/ch5/lesson3
   - file: docs/ch5/lesson4
 
-- caption: 6. Templates for Your Data Analysis
+- caption: 6. Plantillas para tu análisis de datos
   chapters:
   - file: docs/ch6/lesson1
   - file: docs/ch6/lesson2
   - file: docs/ch6/lesson3
 
-- caption: 7. Merge GLOBE & iNaturalist Data
+- caption: 7. Combinar datos de GLOBE e iNaturalist
   chapters:
   - file: docs/ch7/lesson1
   - file: docs/ch7/lesson2
