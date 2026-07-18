@@ -1,7 +1,7 @@
 # emerge-lessons
 
-Environmental Monitoring through Education, Research & Geospatial Engagement (EMERGE) is a statewide initiative that helps libraries, educators, and individuals across Florida engage in public health and environmental science using real-world data tools and citizen science.
+Environmental Monitoring through Education, Research & Geospatial Engagement (EMERGE) es una iniciativa estatal que ayuda a bibliotecas, educadores y personas de todo el estado de Florida a participar en investigaciones de salud pública y ciencias ambientales mediante herramientas de datos del mundo real y ciencia participativa.
 
-Through mobile tools like GLOBE Observer, participants help monitor mosquito breeding sites, classify land cover, and contribute data to global scientific efforts.
+A través de herramientas móviles como GLOBE Observer, las personas participantes ayudan a monitorear criaderos de mosquitos, clasificar la cobertura terrestre y aportar datos a esfuerzos científicos de alcance mundial.
 
-This digital textbook includes interactive coding tutorials designed to introduce you to the amazing capabilities of participatory science and geospatial analysis.
+Este libro de texto digital incluye tutoriales interactivos de programación diseñados para presentar las increíbles posibilidades de la ciencia participativa y el análisis geoespacial.
