@@ -1,26 +1,26 @@
-# Book settings
-# Learn more at https://jupyterbook.org/customize/config.html
+# Configuración del libro
+# Obtén más información en https://jupyterbook.org/customize/config.html
 
-title: EMERGE Lessons
+title: Lecciones de EMERGE
 author: GeoDI Lab
 copyright: "2025"
 logo: EMERGE_Landsat.png
 
-# Do not re-execute notebooks on each build
-# See https://jupyterbook.org/content/execute.html
+# No volver a ejecutar los cuadernos durante cada compilación
+# Consulta https://jupyterbook.org/content/execute.html
 execute:
   execute_notebooks: 'off'
 
-# Define the name of the latex output file for PDF builds
+# Definir el nombre del archivo de salida de LaTeX para las compilaciones en PDF
 latex:
   latex_documents:
     targetname: book.tex
 
-# Add a bibtex file so that we can create citations
+# Agregar un archivo BibTeX para crear citas
 bibtex_bibfiles:
   - references.bib
 
-# Information about where the book exists on the web
+# Información sobre la ubicación del libro en la web
 repository:
   url: https://github.com/geo-di-lab/emerge-lessons
   branch: main
@@ -30,8 +30,8 @@ launch_buttons:
   # binderhub_url: "https://mybinder.org"
   colab_url: "https://colab.research.google.com"
 
-# Add GitHub buttons to your book
-# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+# Agregar botones de GitHub al libro
+# Consulta https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
   favicon: "GeoDI_Logo.png"
   use_issues_button: true
