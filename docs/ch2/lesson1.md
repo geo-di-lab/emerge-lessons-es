@@ -1,57 +1,64 @@
-# Why Analyze Data?
+# ¿Por qué analizar datos?
 
-If you’ve collected data through citizen science—or are considering it—you might wonder: what happens next? Why do we analyze data? And how does analysis turn raw observations into meaningful knowledge?
+Si has recopilado datos mediante la ciencia participativa, o estás pensando en hacerlo, quizá te preguntes: ¿qué ocurre después? ¿Por qué analizamos los datos? ¿Y cómo transforma el análisis las observaciones sin procesar en conocimientos significativos?
 
-This chapter explains **why analyzing data is essential** to environmental science, community action, and public health. Whether you’re a student, educator, community leader, or curious participant, this lesson will show how analysis helps us answer questions, find patterns, and make informed decisions.
+Este capítulo explica **por qué el análisis de datos es fundamental** para las ciencias ambientales, la acción comunitaria y la salud pública. Ya seas estudiante, educador, líder comunitario o una persona curiosa, esta lección mostrará cómo el análisis nos ayuda a responder preguntas, encontrar patrones y tomar decisiones informadas.
 
-## What Is Data Analysis?
+## ¿Qué es el análisis de datos?
 
-In simple terms, **data analysis is the process of examining data to draw conclusions**. It involves organizing, visualizing, interpreting, and sometimes modeling information to:
-- Identify trends or changes over time
-- Spot patterns or outliers
-- Compare one place or group to another
-- Support a hypothesis or answer a research question
-- Make decisions based on evidence
+En términos sencillos, **el análisis de datos es el proceso de examinar información para obtener conclusiones**. Incluye organizar, visualizar, interpretar y, en algunos casos, modelar los datos para:
 
-Data can take many forms—numbers, maps, photos, GPS coordinates, or even checklists. GLOBE Observer data, for instance, includes:
-- Geotagged photos of land cover
-- Mosquito larvae counts and habitat descriptions
-- Time and date stamps
-- Weather and environmental conditions
+- Identificar tendencias o cambios a lo largo del tiempo.
+- Detectar patrones o valores atípicos.
+- Comparar un lugar o grupo con otro.
+- Apoyar una hipótesis o responder una pregunta de investigación.
+- Tomar decisiones basadas en evidencia.
 
-Each data point alone is helpful, but **when we analyze many observations together**, we begin to see bigger pictures.
+Los datos pueden adoptar muchas formas: números, mapas, fotografías, coordenadas GPS o incluso listas de verificación. Los datos de GLOBE Observer, por ejemplo, incluyen:
 
-## Why Analysis Matters for EMERGE
+- Fotografías georreferenciadas de la cobertura terrestre.
+- Conteos de larvas de mosquitos y descripciones de sus hábitats.
+- Fechas y horas de las observaciones.
+- Condiciones meteorológicas y ambientales.
 
-The EMERGE project is about more than collecting data—it’s about using data to understand **environmental change** and **public health risks**, especially related to mosquito-borne disease and land use.
+Cada dato individual es útil, pero **cuando analizamos muchas observaciones en conjunto**, comenzamos a comprender patrones más amplios.
 
-By analyzing land cover observations, we can:
-- See how vegetation and water coverage vary across regions
-- Identify places at higher risk for heat, flooding, or pollution
-- Understand how green space contributes to resilience
+## Por qué el análisis es importante para EMERGE
 
-By analyzing mosquito habitat data, we can:
-- Pinpoint mosquito breeding hotspots
-- Compare mosquito presence before and after a storm
-- Predict where health departments might need to focus resources
+El proyecto EMERGE no se limita a recopilar datos. También busca utilizarlos para comprender el **cambio ambiental** y los **riesgos para la salud pública**, especialmente los relacionados con las enfermedades transmitidas por mosquitos y el uso del suelo.
 
-Analysis helps turn **community-collected data into community knowledge**. It empowers you to say not just *"Here's what I saw"* but *"Here's what it means."*
+Al analizar las observaciones de cobertura terrestre, podemos:
 
-## Examples of Questions You Can Explore
-- Where are most mosquito larvae being found in my city?
-- How does land cover vary between neighborhoods?
-- Do mosquito habitats increase after heavy rainfall?
-- What kinds of environments seem to attract mosquitoes?
-- Are certain areas missing green space or vegetation?
+- Observar cómo varían la vegetación y la cobertura de agua entre distintas regiones.
+- Identificar lugares con mayor riesgo de calor, inundaciones o contaminación.
+- Comprender cómo los espacios verdes contribuyen a la resiliencia.
 
-In upcoming lessons, we’ll show you how to:
-- Explore and download data from GLOBE Observer
-- Visualize data with charts and maps
-- Create insights you can share with your school, library, or local government
+Al analizar los datos sobre hábitats de mosquitos, podemos:
 
-## Conclusion: From Observation to Action
-Data collection is the first step. **Analysis is what gives data power**.
+- Localizar zonas con una alta concentración de criaderos.
+- Comparar la presencia de mosquitos antes y después de una tormenta.
+- Predecir dónde podrían necesitar concentrar sus recursos los departamentos de salud.
 
-By analyzing what you and others observe, you contribute to science, inform public decisions, and help your community adapt to a changing world. Whether you’re building a science fair project, informing local leaders, or simply satisfying your curiosity—data analysis connects you to a larger story.
+El análisis ayuda a transformar **los datos recopilados por la comunidad en conocimiento para la comunidad**. Permite decir no solo *“Esto es lo que observé”*, sino también *“Esto es lo que significa”*.
 
-Let’s get started.
+## Ejemplos de preguntas que puedes explorar
+
+- ¿Dónde se encuentra la mayor cantidad de larvas de mosquitos en mi ciudad?
+- ¿Cómo varía la cobertura terrestre entre distintos vecindarios?
+- ¿Aumentan los hábitats de mosquitos después de lluvias intensas?
+- ¿Qué tipos de ambientes parecen atraer a los mosquitos?
+- ¿Hay zonas que carecen de espacios verdes o vegetación?
+
+En las próximas lecciones, aprenderás a:
+
+- Explorar y descargar datos de GLOBE Observer.
+- Visualizar los datos mediante gráficos y mapas.
+- Crear conclusiones que puedas compartir con tu escuela, biblioteca o gobierno local.
+
+## Conclusión: de la observación a la acción
+
+La recopilación de datos es el primer paso. **El análisis es lo que da poder a los datos**.
+
+Al analizar lo que tú y otras personas observan, contribuyes a la ciencia, apoyas la toma de decisiones públicas y ayudas a tu comunidad a adaptarse a un mundo cambiante. Ya sea que estés preparando un proyecto para una feria de ciencias, compartiendo información con líderes locales o simplemente satisfaciendo tu curiosidad, el análisis de datos te conecta con una historia más amplia.
+
+Comencemos.
