@@ -1,62 +1,67 @@
-# Our Eyes in the Sky & On the Ground
-For more information, refer to [NASA's article about Remote Sensing](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/remote-sensing).
+# Nuestros ojos en el cielo y en el terreno
 
-## Intro to NASA & Remote Sensing
+Para obtener más información, consulta el [artículo de NASA sobre teledetección](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/remote-sensing).
 
-Remote sensing is the acquisition of information from a distance. This is done from airplanes, satellites, or other spacecraft. Both imagery and measurements are collected from the surface of the Earth.
+## Introducción a NASA y la teledetección
 
-This information can be used across many different research topics, including meteorology, oceanography, terrestrial ecology, geology, geography, and more.
+La teledetección es la obtención de información a distancia. Se realiza mediante aviones, satélites u otras naves espaciales. Estos instrumentos recopilan tanto imágenes como mediciones de la superficie de la Tierra.
 
-NASA, with an array of space-based platforms that record information about Earth, is very involved with remote sensing. The [Landsat](https://science.nasa.gov/mission/landsat/) satellite program, a partnership between NASA and the U.S. Geological Survey, has especially been a pillar of land change data since the 1970s. Since this data is open source, Landsat and other NASA imagery have been used all over the world for research, business, and education.
+Esta información puede utilizarse en numerosos campos de investigación, como la meteorología, la oceanografía, la ecología terrestre, la geología, la geografía y muchos otros.
 
-## What Do Satellites See and How Do They Work?
+NASA participa ampliamente en la teledetección mediante una variedad de plataformas espaciales que registran información sobre la Tierra. El programa de satélites [Landsat](https://science.nasa.gov/mission/landsat/), una colaboración entre NASA y el Servicio Geológico de Estados Unidos, ha sido especialmente importante para documentar los cambios en la superficie terrestre desde la década de 1970. Como estos datos son de acceso abierto, las imágenes de Landsat y de otras misiones de NASA se utilizan en todo el mundo para la investigación, los negocios y la educación.
 
-Remote sensing satellites observe and gather data from a distance, capturing electromagnetic radiation: ultraviolet, infrared, and visible wavelengths being reflected from Earth. Images will be taken simultaneously in multiple wavelengths using multispectral imaging. 
+## ¿Qué observan los satélites y cómo funcionan?
 
-Multispectral imaging captures image data in specific wavelengths using either filters or instruments that are sensitive to particular wavelengths, drawing out latent information. Using different color filters, features like water, vegetation, soil, and more are distinctly emphasized for analysis. This distinction is possible because each feature reflects light differently.
+Los satélites de teledetección observan y recopilan datos a distancia mediante la captura de radiación electromagnética reflejada por la Tierra, incluidas las longitudes de onda ultravioleta, infrarroja y visible. Las imágenes se toman simultáneamente en varias longitudes de onda mediante imágenes multiespectrales.
 
-![Electromagnetic spectrum](https://science.nasa.gov/wp-content/uploads/2023/04/intro_1-jpg.webp)
+Las imágenes multiespectrales capturan datos en longitudes de onda específicas mediante filtros o instrumentos sensibles a determinadas partes del espectro, lo que permite revelar información que no siempre es visible a simple vista. Al utilizar diferentes filtros de color, elementos como el agua, la vegetación y el suelo pueden resaltarse de forma diferenciada para su análisis. Esto es posible porque cada elemento refleja la luz de manera distinta.
 
-Image from [NASA Science](https://science.nasa.gov/ems/01_intro/)
+![Espectro electromagnético](https://science.nasa.gov/wp-content/uploads/2023/04/intro_1-jpg.webp)
 
-## Typical Spectral Bands
-Wavelengths are approximate and in parenthesis:
-- Blue (450-515nm) is used for atmosphere and deep water imaging, it can reach depths of up to 150 feet in clear water.
-- Green (515/520-590/600nm) is used for imaging vegetation and deep water structures, reaching up to 90 feet in clear water.
-- Red (600/630-680/690nm) is used for imaging man-made objects, soil, vegetation, and water up to 30 feet.
-- Near infrared or NIR (750-900nm) is used for imaging vegetation.
-- Mid-infrared or MIR (1550-1750nm) is used for imaging vegetation, soil moisture content, and some forest fires.
-- Far-infrared or FIR (2080-2350nm) is used for soil, moisture, geological features, silicates, clays, and fires.
-- Thermal infrared (10,400-12,500nm) uses emitted radiation rather than reflected, it is used for geological structures,fires, night studies, and thermal differences in water currents.
+Imagen de [NASA Science](https://science.nasa.gov/ems/01_intro/)
 
-## Spectral Band Usage
+## Bandas espectrales comunes
 
-- False colors are a group of color rendering methods in order to distinguish parts of the electromagnetic spectrum, both visible and invisible. A false-color image shows a scene in colors different from its original version.
+Las longitudes de onda son aproximadas y aparecen entre paréntesis:
 
-- True-color only uses red, green, and blue channels. These are easy to understand for beginner analysts since they’re plain color photographs. This method is good for analyzing man-made objects.
+- **Azul (450–515 nm):** se utiliza para observar la atmósfera y las aguas profundas. En aguas transparentes puede alcanzar profundidades de hasta 150 pies.
+- **Verde (515/520–590/600 nm):** se utiliza para observar la vegetación y las estructuras en aguas profundas. En aguas transparentes puede alcanzar profundidades de hasta 90 pies.
+- **Rojo (600/630–680/690 nm):** se utiliza para observar objetos construidos por el ser humano, el suelo, la vegetación y el agua hasta una profundidad de aproximadamente 30 pies.
+- **Infrarrojo cercano o NIR (750–900 nm):** se utiliza para observar la vegetación.
+- **Infrarrojo medio o MIR (1550–1750 nm):** se utiliza para observar la vegetación, el contenido de humedad del suelo y algunos incendios forestales.
+- **Infrarrojo lejano o FIR (2080–2350 nm):** se utiliza para estudiar el suelo, la humedad, las características geológicas, los silicatos, las arcillas y los incendios.
+- **Infrarrojo térmico (10,400–12,500 nm):** utiliza la radiación emitida en lugar de la reflejada. Se emplea para estudiar estructuras geológicas, incendios, condiciones nocturnas y diferencias térmicas en las corrientes de agua.
 
-- Green-red-infrared replaces the blue channel with near infrared, which is often used to detect vegetation.
+## Uso de las bandas espectrales
 
-- Blue-NIR-MIR is when the blue channel uses visible blue, green uses NIR so that vegetation stays green, and MIR is shown as red. This makes it so water depth, vegetation coverage, fire presence, and soil moisture content can be viewed in one image.
+- Los **colores falsos** son un conjunto de métodos de representación que permiten distinguir partes visibles e invisibles del espectro electromagnético. Una imagen en falso color muestra una escena con colores diferentes de los que tendría a simple vista.
 
-## Resolution
-Resolution of images plays a large role in how data from an instrument can be used. There are four types of resolution to consider in datasets.
+- Las imágenes en **color verdadero** utilizan solamente los canales rojo, verde y azul. Son fáciles de interpretar para quienes comienzan a analizar imágenes, ya que se parecen a fotografías convencionales. Este método es útil para estudiar objetos construidos por el ser humano.
 
-**Radiometric resolution** is the amount of information in each pixel, the number of bits representing energy recorded. Each bit records an exponent of base 2, so the higher the radiometric resolution, the more values can be stored, allowing for better discrimination against energy differences (ex. subtle differences in ocean color).
+- La combinación **verde-rojo-infrarrojo** sustituye el canal azul por el infrarrojo cercano y suele utilizarse para detectar vegetación.
 
-![Space Archaeology: In the Realm of Resolution](https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91071/selselah_oli_2017024.png)
+- En la combinación **azul-NIR-MIR**, el canal azul utiliza la luz azul visible, el canal verde utiliza el infrarrojo cercano para que la vegetación permanezca verde y el infrarrojo medio se representa en rojo. Esta combinación permite observar en una sola imagen la profundidad del agua, la cobertura vegetal, la presencia de incendios y el contenido de humedad del suelo.
 
-[NASA Earth Observatory images by Joshua Stevens](https://www.visibleearth.nasa.gov/images/91071/space-archaeology-in-the-realm-of-resolution/91074w)
+## Resolución
 
-**Spatial resolution** is defined by the size of each pixel within a digital image and the area on Earth’s surface represented by that pixel. One pixel represents a specific area on the ground, the finer the resolution (the lower the number), the more detail visible. In Landsat data for example, each pixel represents a 30-meter by 30-meter area of land.
+La resolución de las imágenes influye considerablemente en la manera en que pueden utilizarse los datos de un instrumento. Existen cuatro tipos de resolución que deben considerarse al trabajar con conjuntos de datos.
 
-![3 Landsat satellite images at 30m, 100m and 300m resolution](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2022-02/spatial_resolution.jpg)
+La **resolución radiométrica** es la cantidad de información contenida en cada píxel, expresada como el número de bits utilizados para representar la energía registrada. Cada bit representa una potencia de base 2. Por lo tanto, cuanto mayor sea la resolución radiométrica, más valores podrán almacenarse y mejor podrán distinguirse pequeñas diferencias de energía, como variaciones sutiles en el color del océano.
 
-Image from [NASA Earth Observatory](https://earthobservatory.nasa.gov/)
+![Arqueología espacial: en el ámbito de la resolución](https://eoimages.gsfc.nasa.gov/images/imagerecords/91000/91071/selselah_oli_2017024.png)
 
-**Spectral resolution** is the ability of an instrument to discern finer wavelengths, having more and narrower bands. The narrower the range of a given band, the finer the spectral resolution. Many instruments are multispectral with 3 to 10 bands, while others are hyperspectral with hundreds. Below, the Airborne Visible/Infrared Imaging Spectrometer (AVIRIS) has 224 spectral channels, where distinctions are able to be made between rocks and minerals as well as vegetation types.
-![A cube showing hyperspectral data depicting part of San Francisco](https://esto.nasa.gov/wp-content/uploads/2022/05/ImgSPEC_Image2.jpg)
+Imágenes de [NASA Earth Observatory, creadas por Joshua Stevens](https://www.visibleearth.nasa.gov/images/91071/space-archaeology-in-the-realm-of-resolution/91074w)
 
-Image from [NASA Jet Propulsion Laboratory](https://esto.nasa.gov/nasa-software-leverages-hyperspectral-data-to-better-understand-climate-change/)
+La **resolución espacial** se define por el tamaño de cada píxel de una imagen digital y por el área de la superficie terrestre que representa. Cada píxel corresponde a una zona específica del terreno. Cuanto más fina sea la resolución, es decir, cuanto menor sea el número que representa el tamaño del píxel, mayor será el nivel de detalle visible. En los datos de Landsat, por ejemplo, cada píxel suele representar un área de 30 por 30 metros.
 
-**Temporal resolution** is the time that it takes for a satellite to complete an orbit and revisit an observation area depending on the orbit, the instrument’s individual characteristics, and the horizontal distance covering a satellite sensor. Polar orbiting platforms have temporal resolutions that vary from 1 to 16 days. A satellite with a temporal resolution of 16 days, for example, would be better for capturing bi-monthly changes rather than daily changes.
+![Tres imágenes satelitales de Landsat con resoluciones de 30 m, 100 m y 300 m](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2022-02/spatial_resolution.jpg)
+
+Imagen de [NASA Earth Observatory](https://earthobservatory.nasa.gov/)
+
+La **resolución espectral** es la capacidad de un instrumento para distinguir intervalos más específicos de longitudes de onda mediante un mayor número de bandas y bandas más estrechas. Cuanto más reducido sea el intervalo de una banda, más fina será la resolución espectral. Muchos instrumentos son multiespectrales y cuentan con entre 3 y 10 bandas, mientras que otros son hiperespectrales y contienen cientos. En el ejemplo siguiente, el espectrómetro aerotransportado de imágenes visibles e infrarrojas, Airborne Visible/Infrared Imaging Spectrometer (AVIRIS), cuenta con 224 canales espectrales que permiten distinguir entre distintos tipos de rocas, minerales y vegetación.
+
+![Cubo de datos hiperespectrales que representa una parte de San Francisco](https://esto.nasa.gov/wp-content/uploads/2022/05/ImgSPEC_Image2.jpg)
+
+Imagen del [Laboratorio de Propulsión a Chorro de NASA](https://esto.nasa.gov/nasa-software-leverages-hyperspectral-data-to-better-understand-climate-change/)
+
+La **resolución temporal** es el tiempo que tarda un satélite en completar una órbita y volver a observar una zona determinada. Depende del tipo de órbita, las características del instrumento y la franja horizontal cubierta por el sensor. Las plataformas de órbita polar suelen tener resoluciones temporales de entre 1 y 16 días. Por ejemplo, un satélite con una resolución temporal de 16 días sería más adecuado para observar cambios que ocurren dos veces al mes que para detectar variaciones diarias.
