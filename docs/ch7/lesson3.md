@@ -1,17 +1,23 @@
-# Download iNaturalist Data
+# Descargar datos de iNaturalist
 
-There is no exact number of mosquito predator species. Though we've named five in this chapter, there's a wide variety of species across a wide range of taxonomic groups. If there's any species that you specifically would like to map out alongside GLOBE & iNaturalist Mosquito observations, this is a tutorial on how to accomplish that.
+No existe un número exacto de especies depredadoras de mosquitos. Aunque en este capítulo presentamos cinco, hay muchas otras especies pertenecientes a una gran variedad de grupos taxonómicos.
 
-If you would like a species added to our Github so that you don't have to download/upload anything, feel free to contact us with any requests!
+Esta guía explica cómo descargar datos de cualquier especie que quieras mapear junto con las observaciones de mosquitos de GLOBE e iNaturalist.
 
-## Step One - Go to iNaturalist's website and look up your species
-![Screenshot of iNaturalist's website](image1.png)
+Si deseas que agreguemos una especie a nuestro repositorio de GitHub para que no tengas que descargar ni subir archivos, puedes comunicarte con nosotros y enviarnos tu solicitud.
 
-![Screenshot of iNaturalist's website after searching for Southeastern Myotis](image2.png)
+## Paso uno: visita el sitio web de iNaturalist y busca la especie
 
-## Step Two - Click Filters and change the range to 2018-01-01 - 2024-12-31
-![Screenshot of the filters options with the date range set](image3.png)
+![Captura de pantalla del sitio web de iNaturalist](image1.png)
 
-## Step Three - Add any other filters you would like and then click Create Export
-*If your search query has over 20,000 observations, you may need to add more filters to bring the number below the limit. Also, make sure you're logged in*
-![Screenshot of the columns chosen to download the data](image4.png)
+![Captura de pantalla de iNaturalist después de buscar el murciélago del sureste](image2.png)
+
+## Paso dos: selecciona Filters y establece el período entre 2018-01-01 y 2024-12-31
+
+![Captura de pantalla de las opciones de filtro con el período seleccionado](image3.png)
+
+## Paso tres: agrega los demás filtros que necesites y selecciona Create Export
+
+*Si tu búsqueda contiene más de 20,000 observaciones, quizás debas agregar filtros para reducir la cantidad de resultados por debajo de ese límite. Asegúrate también de haber iniciado sesión.*
+
+![Captura de pantalla de las columnas seleccionadas para descargar los datos](image4.png)
