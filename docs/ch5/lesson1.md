@@ -1,55 +1,63 @@
-# Communicate the Science
+# Comunicar la ciencia
 
-Science doesn’t end when the data is collected or analyzed — in many ways, that’s just the beginning. Sharing what you’ve learned is essential to making a difference. Whether you’re giving a talk at your local library, posting on social media, or building a story map for your city government, the goal is the same: help others understand why your findings matter.
+La ciencia no termina cuando se recopilan o analizan los datos. En muchos sentidos, ese es solo el comienzo. Compartir lo que has aprendido es fundamental para generar un impacto. Ya sea que presentes una charla en tu biblioteca local, publiques en redes sociales o crees un mapa narrativo para el gobierno de tu ciudad, el objetivo es el mismo: ayudar a otras personas a comprender por qué tus hallazgos son importantes.
 
-This chapter focuses on how to **communicate science effectively** — especially when your data comes from community observations, citizen science, and tools like GLOBE Observer. Good science communication makes technical information understandable, engaging, and actionable.
+Este capítulo se centra en cómo **comunicar la ciencia de manera efectiva**, especialmente cuando tus datos provienen de observaciones comunitarias, proyectos de ciencia participativa y herramientas como GLOBE Observer. Una buena comunicación científica hace que la información técnica sea comprensible, interesante y útil para actuar.
 
-## Why Communicate Science?
-Communicating science is about more than just presenting facts — it’s about connecting with people. Here’s why it matters:
+## ¿Por qué comunicar la ciencia?
 
-- **Informs decision-making**: Sharing your findings with local leaders, teachers, or residents can help guide real-world actions, like draining standing water to reduce mosquito risk.
-- **Builds trust**: Open communication helps people trust both the process and results of community science.
-- **Encourages participation**: When people see others presenting data and getting involved, they’re more likely to contribute themselves.
-- **Creates change**: When data is communicated clearly, it can inspire action — from policy to personal behavior.
+Comunicar la ciencia implica mucho más que presentar datos. Se trata de conectar con las personas. Estas son algunas razones por las que es importante:
 
-## What Makes Communication Effective?
-Good science communication is:
+- **Apoya la toma de decisiones**: Compartir tus hallazgos con líderes locales, docentes o residentes puede ayudar a orientar acciones concretas, como eliminar el agua estancada para reducir el riesgo de mosquitos.
+- **Genera confianza**: Una comunicación abierta ayuda a que las personas confíen tanto en el proceso como en los resultados de la ciencia participativa.
+- **Fomenta la participación**: Cuando las personas ven que otras comparten datos y se involucran, es más probable que también quieran contribuir.
+- **Impulsa el cambio**: Cuando los datos se comunican con claridad, pueden inspirar acciones, desde cambios en las políticas hasta decisiones personales.
 
-- **Accurate**: Stick to what your data shows. Be honest about what you know and what you’re still figuring out.
-- **Audience-aware**: Tailor your message to who you’re talking to — a classroom of students, a town council, or neighbors on social media might each need a different approach.
-- **Clear and jargon-free**: Avoid technical terms when you can, or define them clearly if you need to use them.
-- **Visual**: Maps, graphs, photos, and drawings can make your data more accessible and powerful.
-- **Personal**: People respond to stories. Don’t just share your data — share your journey, your observations, and why the work matters to you.
+## ¿Qué hace que la comunicación sea efectiva?
 
-## Connecting Data to Storytelling
-Every dataset tells a story — the story of a place, a season, a change, or a risk. For example:
-- A mosquito habitat map could tell the story of how one neighborhood is taking steps to prevent disease.
-- A series of land cover photos could show how green spaces in a city have changed over time — and why that matters for heat, flooding, or biodiversity.
-- A student-led GLOBE project might highlight how youth are monitoring their community and taking environmental action.
+Una buena comunicación científica es:
 
-Ask yourself:
-- What question did you try to answer?
-- What patterns did you see in your data?
-- Who might care about these findings?
-- What do you want them to know, feel, or do after hearing from you?
+- **Precisa**: Limítate a lo que muestran tus datos. Sé honesto sobre lo que sabes y sobre lo que todavía estás tratando de comprender.
+- **Adaptada al público**: Ajusta tu mensaje a las personas con las que estás hablando. Un grupo de estudiantes, un concejo municipal y tus vecinos en redes sociales pueden necesitar enfoques diferentes.
+- **Clara y sin jerga**: Evita los términos técnicos cuando sea posible. Cuando necesites utilizarlos, explícalos con claridad.
+- **Visual**: Los mapas, gráficos, fotografías y dibujos pueden hacer que tus datos sean más accesibles y poderosos.
+- **Personal**: Las personas responden a las historias. No compartas solamente los datos. Cuenta también tu experiencia, lo que observaste y por qué este trabajo es importante para ti.
 
-## Tools to Help You Share
-Depending on your audience and goals, you can communicate your findings in different formats:
+## Conectar los datos con una historia
 
-- **StoryMaps**: Combine maps, text, images, and video to create an interactive digital story. [Learn about ArcGIS StoryMaps](https://storymaps.arcgis.com/).
-- **Infographics**: Simple, visual summaries of your findings. Tools like Canva or Piktochart can help you build your own.
-- **Posters and zines**: Great for libraries, community centers, or schools. Check out our EMERGE poster templates.
-- **Social media posts**: Quick and engaging — perfect for sharing key findings or photos from the field.
-- **Presentations**: Prepare short talks for events, classes, or community groups. See our “Data Camp” slide decks for inspiration.
+Cada conjunto de datos cuenta una historia: la historia de un lugar, una estación, un cambio o un riesgo. Por ejemplo:
 
-## Communicating with a Purpose
-Science communication doesn’t have to be fancy or technical. It just has to be thoughtful.
+- Un mapa de hábitats de mosquitos podría mostrar cómo un vecindario está tomando medidas para prevenir enfermedades.
+- Una serie de fotografías de cobertura terrestre podría mostrar cómo han cambiado los espacios verdes de una ciudad y por qué eso importa para el calor, las inundaciones o la biodiversidad.
+- Un proyecto de GLOBE dirigido por estudiantes podría destacar cómo las personas jóvenes están observando su comunidad y tomando medidas ambientales.
 
-Ask yourself:
-- Who am I trying to reach?
-- What do I want them to understand or do?
-- What’s the best format to deliver this message?
+Pregúntate:
 
-In the next lessons, you’ll explore examples of public-facing science projects and learn how to create your own communication materials using data you’ve collected or analyzed during EMERGE.
+- ¿Qué pregunta intentaste responder?
+- ¿Qué patrones encontraste en los datos?
+- ¿A quién podrían importarle estos hallazgos?
+- ¿Qué quieres que las personas sepan, sientan o hagan después de conocer tu trabajo?
 
-Remember: **Data becomes powerful when it’s shared**.
+## Herramientas para compartir tus hallazgos
+
+Según tu público y tus objetivos, puedes comunicar tus hallazgos en distintos formatos:
+
+- **StoryMaps**: Combina mapas, texto, imágenes y video para crear una historia digital interactiva. [Conoce ArcGIS StoryMaps](https://storymaps.arcgis.com/).
+- **Infografías**: Crea resúmenes visuales y sencillos de tus hallazgos. Herramientas como Canva o Piktochart pueden ayudarte a diseñarlos.
+- **Carteles y fanzines**: Son ideales para bibliotecas, centros comunitarios o escuelas. Consulta las plantillas de carteles de EMERGE.
+- **Publicaciones en redes sociales**: Son rápidas y atractivas, y funcionan bien para compartir hallazgos importantes o fotografías del trabajo de campo.
+- **Presentaciones**: Prepara charlas breves para eventos, clases o grupos comunitarios. Puedes inspirarte en las presentaciones de “Data Camp”.
+
+## Comunicar con un propósito
+
+La comunicación científica no tiene que ser sofisticada ni demasiado técnica. Solo debe estar bien pensada.
+
+Pregúntate:
+
+- ¿A quién quiero llegar?
+- ¿Qué quiero que comprenda o haga?
+- ¿Cuál es el mejor formato para transmitir este mensaje?
+
+En las próximas lecciones, explorarás ejemplos de proyectos científicos dirigidos al público y aprenderás a crear tus propios materiales de comunicación utilizando los datos que recopilaste o analizaste durante EMERGE.
+
+Recuerda: **Los datos adquieren poder cuando se comparten**.
