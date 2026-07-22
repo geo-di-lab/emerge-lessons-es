@@ -1,41 +1,73 @@
-# Mosquito Control Through Predation
-In this lesson, we’ll be discussing why we’re looking at the predation of mosquitoes.
+# Control de mosquitos mediante la depredación
 
-Earlier in the textbook, we discussed why we’re researching mosquitos. They are considered to be the world’s deadliest vector of disease, and the transmission of vector-borne pathogens depends on the population dynamic of mosquitos. Monitoring predation is incredibly important to tracking mosquito population, since it can control pathogen prevalence by eliminating the source.
+En esta lección analizaremos por qué estudiamos la depredación de los mosquitos.
 
-## Understanding Mosquito Predation
-In absence of predation, disease pathogens become more prevalent within an ecosystem since mosquitos are able to reproduce without as many limitations. Predation on disease vectors causes the pathogen prevalence to decline and drastically slows the initial spread of the pathogen. It’s important to study diseases within the context of a larger ecological community, since there are many factors that contribute to abundance of a pathogen. An area may be full of places for mosquitos to lay their eggs, the climate may be perfectly suited for them to reproduce, but predators are the limiting factor to their population growth.
+En una sección anterior del libro de texto, explicamos por qué investigamos a los mosquitos. Se consideran los vectores de enfermedades más mortales del mundo, y la transmisión de patógenos transmitidos por vectores depende de la dinámica de sus poblaciones. Observar la depredación es fundamental para comprender y controlar las poblaciones de mosquitos, ya que los depredadores pueden reducir la presencia de patógenos al eliminar parte de la población que los transmite.
 
-Predators have even been introduced in areas as biological control agents for diseases like malaria, dengue fever, and Lyme disease, using organisms ranging from fish to fungus. Understanding the importance of predator-prey dynamics is essential to targeted mosquito elimination efforts. Again, focusing on small and geographically limited networks allow research to be done on specific pathogens.
+## Comprender la depredación de los mosquitos
 
-For our efforts here at EMERGE, we’ll start by tracking five main predator types across the state of Florida. We’ll be overlaying iNaturalist Data alongside our Globe Observer data to see different mosquito ecosystems and their interactions with prey species.
+Cuando no existen suficientes depredadores, los patógenos pueden volverse más frecuentes dentro de un ecosistema porque los mosquitos pueden reproducirse con menos limitaciones. La depredación de los vectores de enfermedades puede reducir la presencia de un patógeno y desacelerar considerablemente su propagación inicial.
 
-## American Robin
-![Picture of the American Robin](robin.jpg)
+Es importante estudiar las enfermedades dentro del contexto de una comunidad ecológica más amplia, ya que muchos factores influyen en la abundancia de un patógeno. Un lugar puede tener muchos sitios donde los mosquitos pueden poner sus huevos y un clima ideal para su reproducción, pero la presencia de depredadores puede limitar el crecimiento de su población.
 
-American Robins (*Turdus migratorius*) have a complicated relationship with mosquitos and West Nile Virus. They have a wide range across North America. They eat mosquitos alongside other insects, making up about 40% of their diet. They are also hosts for mosquito-borne illness, a primary host for West Nile Virus. Mosquitos disproportionately feed on the American Robin. They maintain a high ratio of virus particles versus blood particles in their own blood, with many birds still being asymptomatic despite carrying the disease. When robins disperse at the end of their breeding season in July, mosquitos begin finding more human blood meals. Monitoring American Robins alongside mosquitos is important to keeping pathogens under control.
+Incluso se han introducido depredadores como agentes de control biológico en lugares afectados por enfermedades como la malaria, el dengue y la enfermedad de Lyme. Estos agentes incluyen organismos que van desde peces hasta hongos. Comprender las relaciones entre depredadores y presas es fundamental para diseñar estrategias específicas de control de mosquitos. El estudio de redes pequeñas y geográficamente limitadas también permite investigar patógenos específicos.
 
-## Southeastern Bat
-![Picture of the Southeastern Bat](bat.jpg)
+Como parte de las actividades de EMERGE, comenzaremos observando cinco tipos principales de depredadores en todo el estado de Florida. Superpondremos datos de iNaturalist con nuestros datos de GLOBE Observer para estudiar distintos ecosistemas de mosquitos y sus interacciones con especies depredadoras.
 
-Southeastern Bats (*Myotis austroriparius*) are the species most likely to eat mosquitos in the state of Florida, they’ve been reported to consume more mosquitos than any other bat in any other state. They range from southern Illinois & Indiana to East Texas & the Gulf Coast. A Florida colony of 30,000 of these bats consumed over 15 tons of mosquitoes annually, these large numbers can be attributed to both animals being active at night. When mosquitos are abundant, bats are found to eat a large numbers in a single meal since they do not take evasive action and are easy to capture.
+## Petirrojo americano
 
-## Eastern Mosquitofish
-![Picture of the Eastern Mosquitofish](fish.jpg)
+![Imagen del petirrojo americano](robin.jpg)
 
-The Eastern Mosquitofish (*Gambusia holbrooki*) ranges from New Jersey to Southern Alabama and is common in the state of Florida. They’re found on the surface and edges of ponds, lakes, backwaters, canals, and sluggish streams. They’re a very tolerant species, surviving in stagnant pools and large puddles, making them exceptional for mosquito control. They can be stocked into artificial containers, rain barrels, water buckets, planters, etc. Adult mosquitofish can consume up to 100 larvae a day.
+Los petirrojos americanos (*Turdus migratorius*) tienen una relación compleja con los mosquitos y el virus del Nilo Occidental. Se distribuyen ampliamente por América del Norte.
 
-## Eastern Pondhawk
-![Picture of the Eastern Pondhawk](pondhawk.jpg)
+Los mosquitos forman parte de los insectos que consumen estas aves. En conjunto, los insectos representan aproximadamente el 40 % de su alimentación. Sin embargo, los petirrojos también son huéspedes importantes de enfermedades transmitidas por mosquitos y constituyen uno de los principales huéspedes del virus del Nilo Occidental.
 
-The Eastern Pondhawk (*Erythemis simplicicollis*) can control mosquito populations both in the larval and adult stages. The range of the Pondhawk is incredibly large, from southern Canada down to Central America as far as Costa Rica. Their main prey is mosquitoes, often males are located at the edge of ponds, lakes, and other bodies of warm and still water while females tend to venture out more into grassy areas. Nymphs will eat mosquito larvae right after hatching.
+Los mosquitos se alimentan de los petirrojos americanos con una frecuencia desproporcionadamente alta. Estas aves pueden mantener una proporción elevada de partículas virales en la sangre, aunque muchas no presenten síntomas de la enfermedad.
 
-## Common Green Darner
-![Picture of the Common Green Darner](dragonfly.jpg)
+Cuando los petirrojos se dispersan al finalizar su temporada reproductiva en julio, los mosquitos comienzan a alimentarse con mayor frecuencia de seres humanos. Por esta razón, observar las poblaciones de petirrojos americanos junto con las poblaciones de mosquitos puede ayudar a comprender y controlar la transmisión de patógenos.
 
-The Common Green Darner (*Anax junius*) is another predator of mosquitos, earning the nickname “Mosquito Hawks”. They are the largest and most abundant dragonfly in North America with a range from North to Central America. Similarly to the Eastern Pondhawk, they also eat mosquitoes as larvae and adults with similar habitats.
+## Murciélago del sureste
 
-Sources
+![Imagen del murciélago del sureste](bat.jpg)
+
+Los murciélagos del sureste (*Myotis austroriparius*) se encuentran entre las especies de murciélagos con mayor probabilidad de consumir mosquitos en Florida. Se ha informado que consumen más mosquitos que cualquier otra especie de murciélago estudiada en otros estados.
+
+Su distribución se extiende desde el sur de Illinois e Indiana hasta el este de Texas y la costa del golfo de México. Una colonia de 30,000 murciélagos en Florida consumió más de 15 toneladas de mosquitos al año. Estas cantidades pueden estar relacionadas con el hecho de que ambos animales están activos durante la noche.
+
+Cuando los mosquitos son abundantes, los murciélagos pueden consumir grandes cantidades durante una sola comida, ya que los mosquitos no suelen realizar maniobras evasivas y son relativamente fáciles de capturar.
+
+## Pez mosquito oriental
+
+![Imagen del pez mosquito oriental](fish.jpg)
+
+El pez mosquito oriental (*Gambusia holbrooki*) se distribuye desde Nueva Jersey hasta el sur de Alabama y es común en Florida.
+
+Se encuentra cerca de la superficie y en los bordes de estanques, lagos, remansos, canales y corrientes de agua lenta. Es una especie muy resistente que puede sobrevivir en charcas estancadas y grandes acumulaciones de agua, lo que la hace especialmente útil para el control de mosquitos.
+
+Estos peces pueden colocarse en recipientes artificiales, barriles para recolectar agua de lluvia, cubetas, macetas y otros lugares donde se acumula agua. Un pez mosquito adulto puede consumir hasta 100 larvas al día.
+
+## Libélula de estanque oriental
+
+![Imagen de la libélula de estanque oriental](pondhawk.jpg)
+
+La libélula de estanque oriental (*Erythemis simplicicollis*) puede ayudar a controlar las poblaciones de mosquitos tanto durante su etapa larvaria como durante su etapa adulta.
+
+Su distribución es muy amplia y se extiende desde el sur de Canadá hasta América Central, llegando hasta Costa Rica. Los mosquitos son una de sus principales presas.
+
+Los machos suelen encontrarse en los bordes de estanques, lagos y otros cuerpos de agua cálida y estancada, mientras que las hembras tienden a desplazarse con mayor frecuencia hacia zonas cubiertas de pasto. Las ninfas comienzan a alimentarse de larvas de mosquitos poco después de salir del huevo.
+
+## Libélula verde común
+
+![Imagen de la libélula verde común](dragonfly.jpg)
+
+La libélula verde común (*Anax junius*) es otra depredadora de mosquitos y ha recibido el apodo de “halcón de los mosquitos”.
+
+Es una de las libélulas más grandes y abundantes de América del Norte, con una distribución que se extiende desde América del Norte hasta América Central.
+
+Al igual que la libélula de estanque oriental, consume mosquitos durante las etapas larvaria y adulta y habita en ambientes similares.
+
+## Fuentes
+
 - [As robins disperse, West Nile mosquitoes switch diet to humans: Q&A with Smithsonian ornithologist Peter Marra. In Animals, Q & A, Research News, Science & Nature](https://insider.si.edu/2012/09/qa-on-west-nile-virus-with-ornithologist-peter-marra-as-robins-disperse-mosquitoes-switch-diet-to-humans/)
 - [Predators indirectly control vector-borne disease: linking predator–prey and host–pathogen models](https://pmc.ncbi.nlm.nih.gov/articles/PMC2839384/)
 - [Bats and Mosquito Control](https://www.merlintuttle.org/bats-and-mosquito-control/)
