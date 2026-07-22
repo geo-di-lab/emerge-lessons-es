@@ -1,25 +1,28 @@
-# Host Your Own Data Camp
+# Organiza tu propio Data Camp
 
-Want to get your library, classroom, or organization involved in environmental research and public health? You can host your own **EMERGE Data Camp** using our free tools and open-access curriculum.
+¿Quieres que tu biblioteca, salón de clases u organización participe en investigaciones ambientales y de salud pública? Puedes organizar tu propio **EMERGE Data Camp** utilizando nuestras herramientas gratuitas y nuestro plan de estudios de acceso abierto.
 
-Data Camps are flexible, hands-on programs where participants learn how to collect, analyze, and share real data using NASA’s [GLOBE Observer](https://observer.globe.gov/) tools—specifically the **Mosquito Habitat Mapper** and **Land Cover** projects. No prior experience or technical background is required.
+Los Data Camps son programas prácticos y flexibles en los que las personas participantes aprenden a recopilar, analizar y compartir datos reales mediante las herramientas de [GLOBE Observer](https://observer.globe.gov/) de la NASA, específicamente los proyectos **Mosquito Habitat Mapper** y **Land Cover**. No se necesita experiencia previa ni formación técnica.
 
-## What Is a Data Camp?
-An EMERGE Data Camp is a public-facing science event that can be:
-- A one-hour workshop or a multi-day series
-- In-person or virtual
-- Led by librarians, educators, Ambassadors, students, or volunteers
-- For learners of all ages
+## ¿Qué es un Data Camp?
 
-Data Camps teach participants how to:
-- Use the GLOBE Observer mobile app
-- Identify and report mosquito breeding habitats or land cover
-- Visualize local environmental data
-- Ask questions, analyze trends, and communicate findings
+Un EMERGE Data Camp es un evento científico dirigido al público que puede ser:
 
-## Why Host One?
-- Engage your community in meaningful science
-- Build public awareness around mosquito-borne disease and climate resilience
-- Contribute real data to a global NASA-supported initiative
-- Empower learners with data literacy and problem-solving skills
-- Apply for a [$300 mini-grant](https://geoemerge.com/mini-grants-for-libraries-community-based-organizations/) by July 31, 2025 at 5 PM EST to support your program (optional)
+- Un taller de una hora o una serie de varios días
+- Presencial o virtual
+- Dirigido por personal bibliotecario, docentes, Embajadores, estudiantes o personas voluntarias
+- Diseñado para participantes de todas las edades
+
+En los Data Camps, las personas participantes aprenden a:
+
+- Utilizar la aplicación móvil GLOBE Observer
+- Identificar y registrar hábitats de reproducción de mosquitos o tipos de cobertura terrestre
+- Visualizar datos ambientales locales
+- Formular preguntas, analizar tendencias y comunicar hallazgos
+
+## ¿Por qué organizar uno?
+
+- Involucra a tu comunidad en actividades científicas significativas
+- Aumenta la conciencia pública sobre las enfermedades transmitidas por mosquitos y la resiliencia climática
+- Contribuye con datos reales a una iniciativa mundial apoyada por la NASA
+- Fortalece las habilidades de análisis de datos y resolución de problemas
